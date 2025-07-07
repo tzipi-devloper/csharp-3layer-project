@@ -1,0 +1,60 @@
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\UI.exe
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\UI.deps.json
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\UI.runtimeconfig.json
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\UI.dll
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\UI.pdb
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.AddCustomer.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.AddProduct.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.addSale.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.Cashier.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.DeleteCustomer.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.DeleteProduct.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.DeleteSale.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.Form1.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.Manager.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.OrderForm.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.UpdateCustomer.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.UpdateProduct.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.UpdateSale.resources
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.dll
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\refint\UI.dll
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.pdb
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\ref\UI.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\UI.exe
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\UI.deps.json
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\UI.runtimeconfig.json
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\UI.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\UI.pdb
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.AddCustomer.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.AddProduct.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.addSale.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.DeleteCustomer.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.DeleteProduct.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.DeleteSale.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.Form1.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.Manager.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.OrderForm.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.UpdateCustomer.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.UpdateProduct.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.UpdateSale.resources
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\refint\UI.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.pdb
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\ref\UI.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\UI\obj\Debug\UI.Properties.Resources.resources

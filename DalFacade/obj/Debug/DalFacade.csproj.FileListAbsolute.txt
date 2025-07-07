@@ -1,0 +1,26 @@
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\DalFacade.deps.json
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\DalFacade.dll
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\DalFacade.pdb
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\DalFacade.deps.json
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\DalFacade.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\bin\DalFacade.pdb
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\DalFacade\obj\Debug\ref\DalFacade.dll

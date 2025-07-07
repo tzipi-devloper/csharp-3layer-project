@@ -1,0 +1,24 @@
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\bin\Debug\net7.0\Tools.deps.json
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\bin\Debug\net7.0\Tools.dll
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\bin\Debug\net7.0\Tools.pdb
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.csproj.AssemblyReference.cache
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.AssemblyInfo.cs
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.dll
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\refint\Tools.dll
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.pdb
+C:\Users\This User\Documents\c#.net\‏‏תיקיה חדשה\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\ref\Tools.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\bin\Debug\net7.0\Tools.deps.json
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\bin\Debug\net7.0\Tools.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\bin\Debug\net7.0\Tools.pdb
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.csproj.AssemblyReference.cache
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.AssemblyInfoInputs.cache
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.AssemblyInfo.cs
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\refint\Tools.dll
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\Tools.pdb
+C:\Users\This User\Videos\פרויקט מעודכן אילה וציפי\DotNet2025_7685_4559\Tools\obj\Debug\net7.0\ref\Tools.dll

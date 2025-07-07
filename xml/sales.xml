@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sale>
+    <IdNumber>1000</IdNumber>
+    <ProductId>5001</ProductId>
+    <CountInSale>7</CountInSale>
+    <TotalPrice>500</TotalPrice>
+    <AllCustomer>true</AllCustomer>
+    <StartSale>2025-05-19T04:52:45.2887452+03:00</StartSale>
+    <EndSale>2025-05-29T04:52:45.2978047+03:00</EndSale>
+  </Sale>
+  <Sale>
+    <IdNumber>1001</IdNumber>
+    <ProductId>5002</ProductId>
+    <CountInSale>4</CountInSale>
+    <TotalPrice>80</TotalPrice>
+    <AllCustomer>false</AllCustomer>
+    <StartSale>2025-05-19T04:52:45.5513411+03:00</StartSale>
+    <EndSale>2026-05-19T04:52:45.5513445+03:00</EndSale>
+  </Sale>
+</ArrayOfSale>

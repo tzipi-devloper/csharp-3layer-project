@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Id>123</Id>
+    <CustomerName>Tzipi</CustomerName>
+    <Address>Shagat</Address>
+    <Phone>0504170765</Phone>
+  </Customer>
+  <Customer>
+    <Id>1235</Id>
+    <CustomerName>Ayala</CustomerName>
+    <Address>Rashi</Address>
+    <Phone>0534189017</Phone>
+  </Customer>
+  <Customer>
+    <Id>2345</Id>
+    <CustomerName>Sara</CustomerName>
+    <Address>Rambam</Address>
+    <Phone>0503134631</Phone>
+  </Customer>
+  <Customer>
+    <Id>1345</Id>
+    <CustomerName>Chana</CustomerName>
+    <Address>Meromey Sade</Address>
+    <Phone>0524114531</Phone>
+  </Customer>
+  <Customer>
+    <Id>135</Id>
+    <CustomerName>Mira</CustomerName>
+    <Address>Mesilat Yosef</Address>
+    <Phone>0549012388</Phone>
+  </Customer>
+  <Customer>
+    <Id>123455</Id>
+    <CustomerName>Shira</CustomerName>
+    <Address>Rashba</Address>
+    <Phone>0534189945</Phone>
+  </Customer>
+</ArrayOfCustomer>

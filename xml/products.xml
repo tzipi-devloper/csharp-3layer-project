@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProducts>
+  <Product>
+    <Code>5000</Code>
+    <ProductName>נעלי ספורט לגברים - כחול</ProductName>
+    <Category>Nike</Category>
+    <Price>750</Price>
+    <CountInStock>8</CountInStock>
+  </Product>
+  <Product>
+    <Code>5001</Code>
+    <ProductName>נעלי נוי באלנס ספורט-כחול ים</ProductName>
+    <Category>NewBalance</Category>
+    <Price>100</Price>
+    <CountInStock>2</CountInStock>
+  </Product>
+  <Product>
+    <Code>5002</Code>
+    <ProductName>כפכפים לילדים - ירוק</ProductName>
+    <Category>Puma</Category>
+    <Price>210</Price>
+    <CountInStock>20</CountInStock>
+  </Product>
+  <Product>
+    <Code>5003</Code>
+    <ProductName>סנדלים לנשים - חום</ProductName>
+    <Category>NewBalance</Category>
+    <Price>480</Price>
+    <CountInStock>11</CountInStock>
+  </Product>
+  <Product>
+    <Code>5004</Code>
+    <ProductName>מגפיים לגברים - שחור</ProductName>
+    <Category>Nike</Category>
+    <Price>990</Price>
+    <CountInStock>4</CountInStock>
+  </Product>
+  <Product>
+    <Code>5005</Code>
+    <ProductName>נעלי עקב לנשים - אדום</ProductName>
+    <Category>Adidas</Category>
+    <Price>860</Price>
+    <CountInStock>5</CountInStock>
+  </Product>
+  <Product>
+    <Code>5006</Code>
+    <ProductName>נעלי ספורט לילדים - צהוב</ProductName>
+    <Category>Puma</Category>
+    <Price>390</Price>
+    <CountInStock>25</CountInStock>
+  </Product>
+  <Product>
+    <Code>5007</Code>
+    <ProductName>נעלי אלגנט לגברים - אפור</ProductName>
+    <Category>NewBalance</Category>
+    <Price>670</Price>
+    <CountInStock>9</CountInStock>
+  </Product>
+  <Product>
+    <Code>5008</Code>
+    <ProductName>נעלי סמבה לנערות בצבע שחור לבן</ProductName>
+    <Category>Adidas</Category>
+    <Price>380</Price>
+    <CountInStock>8</CountInStock>
+  </Product>
+  <Product>
+    <Code>5009</Code>
+    <ProductName>נעלי בית גברים -כחול</ProductName>
+    <Category>Nike</Category>
+    <Price>100</Price>
+    <CountInStock>7</CountInStock>
+  </Product>
+  <Product>
+    <Code>5010</Code>
+    <ProductName>נעלי אלגנט בנים</ProductName>
+    <Category>Nike</Category>
+    <Price>34</Price>
+    <CountInStock>43</CountInStock>
+  </Product>
+</ArrayOfProducts>
